@@ -6,7 +6,9 @@ Root Phenotyping ANOVAs
 
 Shoot Phenotyping ANOVAs
 
-Principal component analysis
+Principal component analysis of Col-0 root traits
+
+Principal component analysis of T-DNA mutants root traits
 
 Chlorophyll content ANOVAs
 
