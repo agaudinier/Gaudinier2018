@@ -1,6 +1,5 @@
 ### TDNA line PCA analysis
 
-setwd("~/Desktop/RootPhenotyping/Final_Combined_Analysis")
 #load the data as a data frame
 Set1 = read.table("TDNA01_final.txt", header=T)
 
