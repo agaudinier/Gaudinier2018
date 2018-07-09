@@ -2,7 +2,7 @@
 
 setwd("~/Desktop/RootPhenotyping/Final_Combined_Analysis")
 #load the data as a data frame
-Set1 = read.table("TDNA45_final.txt", header=T)
+Set1 = read.table("TDNA01_final.txt", header=T)
 
 Set1 = data.frame(Set1, stringsAsFactors=TRUE )
 
