@@ -34,23 +34,12 @@ Plant = ColData$Plant
 
 pcad=data.frame(pc$x, NO3_Level)
 head(pcad)
-pcad2=data.frame(pc$x, RootSet)
-head(pcad2)
-pcad3 = data.frame(pc$x, Plant)
-pcad3
+
 
 library(ggplot2)
 library(RColorBrewer)
 
-
-ggplot(data=pcad, aes(x=PC1, y=PC2, colour = NO3_Level, label = Plant)) + geom_point() + geom_text()
-ggplot(data=pcad, aes(x=PC1, y=PC2, colour = NO3_Level)) + geom_point() #+ geom_text()
-nitrate
-
-
-
-ggplot(data=pcad2, aes(x=PC1, y=PC2, colour = RootSet)) + geom_point()
-setplot
+ggplot(data=pcad, aes(x=PC1, y=PC2, colour = RootSet)) + geom_point()
 
 ggsave("~/Documents/Research/R_Code/PCA/devggPC1.2.pdf")
 
@@ -95,28 +84,4 @@ sweep(rotation, 2, colSums(rotation), "/")
 
 merged =merge(Set1, pcad, by.x = "Plant", by.y = "Plant")
 head(merged)
-write.csv(merged, "~/Desktop/RootPhenotyping/Final_Combined_Analysis/PCAsforANOVA/TDNA_03_PCA.csv")
-
-ANOVAData <- read.csv("~/Desktop/RootPhenotyping/Final_Combined_Analysis/PCAsforANOVA/TDNA_03_PCA.csv", header=T)
-head(ANOVAData)
-
-library(afex)
-
-anova_PCA1 = lm(PC1 ~ Genotype*NO3_Level + Plate, data = ANOVAData)
-anova(anova_PCA1)
-
-anova_PCA2 = lm(PC2 ~ Genotype*NO3_Level + Plate, data = ANOVAData)
-anova(anova_PCA2)
-
-anova_PCA3 = lm(PC3 ~ Genotype*NO3_Level, data = ANOVAData)
-anova(anova_PCA3)
-
-anova_PCA4 = lm(PC4 ~ Genotype*NO3_Level, data = ANOVAData)
-anova(anova_PCA4)
-
-anova_PCA5 = lm(PC5 ~ Genotype*NO3_Level, data = ANOVAData)
-anova(anova_PCA5)
-
-
-
-##########
+write.csv(merged, "~/Desktop/RootPhenotyping/Final_Combined_Analysis/PCAsforANOVA/Col_PCA.csv")
