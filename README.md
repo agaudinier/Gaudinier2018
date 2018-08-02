@@ -1,4 +1,4 @@
-###Code for R analysis from Gaudinier et al. 2018. 
+###Code for R analysis and files from Gaudinier et al. 2018. 
 
 This repository contains code for:
 
