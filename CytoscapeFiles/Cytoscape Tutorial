@@ -1,0 +1,14 @@
+Download cytoscape: http://www.cytoscape.org/
+
+Cytoscape tutorial: https://github.com/cytoscape/cytoscape-tutorials/wiki
+
+To use these files. 
+1. Open file
+2. Use control panel on the left with the "Network" tab selected
+3. With the mouse arrow over the network and scroll up and down to zoom in and out. Drag the box on the bottom left over 
+sections of the network to explore the zoomed in network.
+4. To move nodes (genes) click and drag. This is move all edges (interactions) linked to this node. 
+
+**If there are multiple networks within one file, there will be more than one networks under the network tab. Clicking on 
+the networks will reveal altered node color. For example, in Network File 1 the second network (YNM_TFswithPhenotypes) the 
+black nodes are genes with mutant phenotypes. 
