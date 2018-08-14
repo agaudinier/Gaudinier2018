@@ -16,27 +16,35 @@ Supplemental Table 8 | NeCORR transcription factor ranking analysis. a, Signific
 
 Supplemental Table 9 | Transcription factor outgoing connectivity.
 
-Supplemental Table 10 | a, Transcription factors weighting based on the total number and percentage of targets that are classical N metabolism genes. b, Genes with mutant lines characterized and their associated ranking. c, Data used for TF rankings. d, Core target genes used in rankings
+Supplemental Table 10 | a, Transcription factors weighting based on the total number and percentage of targets that are classical N
+metabolism genes. b, Genes with mutant lines characterized and their associated ranking. c, Data used for TF rankings. d, Core target
+genes used in rankings
 
 Supplemental Table 11 | T-DNA mutants and primers used for genotyping
 
 Supplemental Table 12 | Novel N-Associated Transcription Factors and their Respective Root and Shoot Mutant Phenotypes. 
 
-Supplemental Table 13 | Root and Shoot Phenotyping Statistical Summary. List of all genotypes tested for root and shoot phenotyping, the number for biological replicates (n) per experiment, and the p-value significance from the ANOVA tests (see Methods).
+Supplemental Table 13 | Root and Shoot Phenotyping Statistical Summary. List of all genotypes tested for root and shoot phenotyping, the
+number for biological replicates (n) per experiment, and the p-value significance from the ANOVA tests (see Methods).
 
-Supplemental Table 14 | Principal Component Traits and Loading Vector for Principal Axes. RSA measurements from Col-0 roots (n = 209 1mM KNO3, n = 201 10mM KNO3) were used as input data. 
+Supplemental Table 14 | Principal Component Traits and Loading Vector for Principal Axes. RSA measurements from Col-0 roots (n = 209 1mM
+KNO3, n = 201 10mM KNO3) were used as input data. 
 
-Supplemental Table 15 | Curated Genes Critical for Regulation of Root Length and Lateral Root Initiation and their presence in the YNM
-a. Genes critical for regulation of root length. b, Genes critical for regulation of root length in the YNM. c, Genes associated with lateral root development in the YNM. 
+Supplemental Table 15 | Curated Genes Critical for Regulation of Root Length and Lateral Root Initiation and their presence in the YNM a, Genes critical for regulation of root length. b, Genes critical for regulation of root length in the YNM. c, Genes associated with lateral root development in the YNM. 
 
-Supplemental Table 16 | Correlation of Transcription Factor Mutant Shoot and Root Phenotypes Relative to Ranking Datasets
+Supplemental Table 16 | Correlation of transcription factor mutant shoot and root phenotypes relative to ranking datasets
 Spearman rank correlation values, p-value significance from the Spearman rank correlations, and number of correlations tested per category (n). 
 
-Supplemental Table 17 | Normalized Expression Data for Wild Type and Mutants at 1 and 10mM KNO3. a, All expressed genes. b, Expressed genes in the YNM.
+Supplemental Table 17 | Normalized Expression Data for Wild Type and Mutants at 1 and 10mM KNO3. a, All expressed genes. b, Expressed
+genes in the YNM.
 
-Supplemental Table 18 | Genotype and Genotype by Nitrate Condition-Dependent Gene Expression in Wild Type (Col-0) Arabidopsis Roots and in Transcription Factor Mutant Alleles. a, All expressed genes. b, Expressed genes in the YNM.
+Supplemental Table 18 | Genotype and Genotype by Nitrate Condition-Dependent Gene Expression in Wild Type (Col-0) Arabidopsis Roots and
+in Transcription Factor Mutant Alleles. a, All expressed genes. b, Expressed genes in the YNM.
 
-Supplemental Table 19 | a, Number of mapped reads per biological replicate for RNAseq experiment (n = 4 biological replicates per genotype per condition. b, Pearson correlation values between replicates.
+Supplemental Table 19 | a, Number of mapped reads per biological replicate for RNAseq experiment (n = 4 biological replicates per
+genotype per condition. b, Pearson correlation values between replicates.
 
-Supplemental Table 20 | Significantly Differentially Expressed Genes in Nitrogen Metabolism Mutants and in Nitrogen Transcriptional Regulator Mutants microarray analysis. a, all differentially expressed genes in the mutants. b, Differentially expressed genes in the YNM.
+Supplemental Table 20 | Significantly Differentially Expressed Genes in Nitrogen Metabolism Mutants and in Nitrogen Transcriptional
+Regulator Mutants microarray analysis. a, all differentially expressed genes in the mutants. b, Differentially expressed genes in the
+YNM.
 
