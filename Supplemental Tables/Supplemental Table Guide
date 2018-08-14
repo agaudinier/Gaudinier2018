@@ -9,13 +9,29 @@ YNM.
 
 Supplemental Table 4 | CPK-NLP7-dependent genes in network
 
-Supplemental Table 5 | Hormone-regulated genes25 present within the YNM. a, abscisic acid-regulated genes. b, ethylene-regulated genes. c, methyl jasmonate-regulated genes. d, auxin-regulated genes. e, cytokinin-regulated genes. f, brassinosteroid-regulated genes. g, gibberellic acid-regulated genes.
+Supplemental Table 5 | Hormone-regulated genes25 present within the YNM. a, abscisic acid-regulated genes. b, ethylene-regulated genes.
+c, methyl jasmonate-regulated genes. d, auxin-regulated genes. e, cytokinin-regulated genes. f, brassinosteroid-regulated genes. 
+g, gibberellic acid-regulated genes.
 
-Supplemental Table 6 | a, Publically available gene expression datasets profiling transcriptome changes in response to nitrogen availability/treatment. b, Re-normalized cell type resolution gene expression dataset profiling transcriptome changes in response to nitrogen availability9. Genes with extremely low or absent expression in all microarray conditions were removed from the datasets or not analyzed when a corresponding unique probe was not available for a gene.
+Supplemental Table 6 | a, Publically available gene expression datasets profiling transcriptome changes in response to nitrogen
+availability/treatment. b, Re-normalized cell type resolution gene expression dataset profiling transcriptome changes in response to
+nitrogen availability9. Genes with extremely low or absent expression in all microarray conditions were removed from the datasets or not
+analyzed when a corresponding unique probe was not available for a gene.
 
-Supplemental Table 7 | a, Pearson and Spearman Rank Correlation of transcription factor and target interactions across publically available nitrogen availability microarray experiments. Gene expression correlations were calculated across 49 datasets for the N treatment dataset and 14 datasets for the cell type-specific dataset. b, TF–promoter gene interactions with a Pearson or Spearman rank correlation greater than >±0.5 for the N treatment dataset; and >±0.8 for the cell type-specific dataset from table in a. c, TF–promoter gene interactions with significant correlations from table from a for TFs tested for root phenotypes
+Supplemental Table 7 | a, Pearson and Spearman Rank Correlation of transcription factor and target interactions across publically
+available nitrogen availability microarray experiments. Gene expression correlations were calculated across 49 datasets for the N
+treatment dataset and 14 datasets for the cell type-specific dataset. b, TF–promoter gene interactions with a Pearson or Spearman rank
+correlation greater than >±0.5 for the N treatment dataset; and >±0.8 for the cell type-specific dataset from table in a. c, TF–promoter
+gene interactions with significant correlations from table from a for TFs tested for root phenotypes
 
-Supplemental Table 8 | NeCORR transcription factor ranking analysis. a, Significant nodes (Significant nodes represent TFs or target genes with more highly correlated (or anti-correlated) edges than expected by chance) in the YNM in various N treatment categories. n = 95 promoters and 332 TFs. b, one-sided gini correlations for all interactions in the YNM. c, significant interactions based on gini correlations based on cell type transcriptomic data, root transcriptomic data, shoot transcriptomic data, nitrate transcriptomic data, nitrate-glutamine transcriptomic data, nitrate-carbon transcriptomic data, nitrate continuous treatment transcriptomic data and nitrate time course transcriptomic data (7-72 samples per dataset). Genes with extremely low or absent expression in all microarray conditions were removed from the datasets or not analyzed when a corresponding unique probe was not available for a gene.  p-value was calculated based on 10000 random permutations. (see Methods).
+Supplemental Table 8 | NeCORR transcription factor ranking analysis. a, Significant nodes (Significant nodes represent TFs or target
+genes with more highly correlated (or anti-correlated) edges than expected by chance) in the YNM in various N treatment categories. 
+n = 95 promoters and 332 TFs. b, one-sided gini correlations for all interactions in the YNM. c, significant interactions based on gini
+correlations based on cell type transcriptomic data, root transcriptomic data, shoot transcriptomic data, nitrate transcriptomic data,
+nitrate-glutamine transcriptomic data, nitrate-carbon transcriptomic data, nitrate continuous treatment transcriptomic data and nitrate
+time course transcriptomic data (7-72 samples per dataset). Genes with extremely low or absent expression in all microarray conditions
+were removed from the datasets or not analyzed when a corresponding unique probe was not available for a gene.  p-value was calculated
+based on 10000 random permutations. (see Methods).
 
 Supplemental Table 9 | Transcription factor outgoing connectivity.
 
