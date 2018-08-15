@@ -1,4 +1,4 @@
-###Code for R analysis and network files from Gaudinier et al. 2018. 
+###Code for R analysis and network files (Cytoscape and PDFs) from Gaudinier et al. 2018. 
 
 This repository contains code for:
 
