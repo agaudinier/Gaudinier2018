@@ -1,6 +1,6 @@
 ###Code for R analysis and network files (Cytoscape and PDFs) from Gaudinier et al. 2018. 
 
-This repository contains code for:
+This repository contains R code for:
 
 Root Phenotyping ANOVAs (Root_ANOVA.R)
 
